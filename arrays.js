@@ -11,3 +11,5 @@ console.log(ages)
 /* this will show me the 1st and 4th element in the studentDebt array */
 studentDebt.slice(1,4)
 console.log(studentDebt)
+
+// index positions are the numbered positions in arrays. They usually start with the first element being numbered "0". For example index position 0 in the array fruits is "apples". Where as the 3rd index position is  "plums". We use index positions to pick specific elements of an array when necessary.
